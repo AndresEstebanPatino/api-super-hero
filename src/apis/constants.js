@@ -1,0 +1,1 @@
+export const Host ='https://superheroapi.com/api/4840207122665423'
