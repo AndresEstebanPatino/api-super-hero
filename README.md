@@ -38,6 +38,8 @@ Las funcionalidades principales de este desarrolo permiten al usuario:
     <li>VueX</li>
     <li>Axios</li>
     <li>Vue router</li>
+    See [Configuration Reference](https://cli.vuejs.org/config/).
+
 </ul>
 
 <p>Puedes usar este proyecto para practicar, si eres nuevo en Vue puedes consultar las siguientes fuentes:</p>
@@ -46,7 +48,6 @@ Las funcionalidades principales de este desarrolo permiten al usuario:
     <li><a href="https://bootstrap-vue.org/"> Boostrap Vue</a></li>
     <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
     <li><a href="https://axios-http.com/docs/intro">Axios</a></li>
-    <li><a href="https://vuex.vuejs.org/"></a>VueX</li>
+    <li><a href="https://vuex.vuejs.org/">VueX</a></li>
 </ul>
 
-See [Configuration Reference](https://cli.vuejs.org/config/).
