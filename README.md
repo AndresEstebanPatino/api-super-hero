@@ -6,7 +6,7 @@
 Las funcionalidades principales de este desarrolo permiten al usuario: 
 </p>
 <br>
-<p>1. Ordenar los súper héroes filtrándolos por:</p>
+<p>1. Ordenar los superhéroes filtrándolos por:</p>
 <ul>
     <li>Inteligence</li>
     <li>Strength</li>
@@ -21,8 +21,8 @@ Las funcionalidades principales de este desarrolo permiten al usuario:
     <li>Eye color</li>
     <li>Hair color</li>
 </ul>
-<p>2. Buscar por nombre del súper héroe <br>
-   3. Ordenar los súper héroes por orden alfabético según su nombre.</p>
+<p>2. Buscar por nombre del superhéroe <br>
+   3. Ordenar los superhéroes por orden alfabético según su nombre.</p>
    <br>
 <h2>Para usar la aplicación el usuario se debe loguear con las siguientes credenciales:</h2>
 <ul>

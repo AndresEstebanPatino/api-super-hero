@@ -71,9 +71,9 @@ export default{
         ]),
         async loadSuperHeros(){
             const superHerosData = await this.getAllHeros()
-            console.log(superHerosData)
+
             this.superHeros = superHerosData
-            console.log(this.superHerosData)
+     
         },
         async orderByCombat(){
           
