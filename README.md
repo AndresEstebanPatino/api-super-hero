@@ -24,7 +24,7 @@ Las funcionalidades principales de este desarrolo permiten al usuario:
 <p>2. Buscar por nombre del súper héroe <br>
    3. Ordenar los súper héroes por orden alfabético según su nombre.</p>
    <br>
-<h2>Para usar la aplicación el usuario de sebe loguear con las siguientes credenciales:</h2>
+<h2>Para usar la aplicación el usuario se debe loguear con las siguientes credenciales:</h2>
 <ul>
     <li>Usuario: usuario1@gmail.com </li>
     <li>password: 123456</li>
@@ -49,5 +49,4 @@ Las funcionalidades principales de este desarrolo permiten al usuario:
     <li><a href="https://vuex.vuejs.org/"></a>VueX</li>
 </ul>
 
-### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
