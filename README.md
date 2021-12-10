@@ -44,10 +44,10 @@ Las funcionalidades principales de este desarrolo permiten al usuario:
 
 <p>Puedes usar este proyecto para practicar, si eres nuevo en Vue puedes consultar las siguientes fuentes:</p>
 <ul>
-    <li><a href="https://vuejs.org/"> Vue </a></li>
-    <li><a href="https://bootstrap-vue.org/"> Boostrap Vue</a></li>
-    <li><a href="https://getbootstrap.com/">Bootstrap</a></li>
-    <li><a href="https://axios-http.com/docs/intro">Axios</a></li>
-    <li><a href="https://vuex.vuejs.org/">VueX</a></li>
+    <li><a href="https://vuejs.org/" target="_blank"> Vue </a></li>
+    <li><a href="https://bootstrap-vue.org/" target="_blank"> Boostrap Vue</a></li>
+    <li><a href="https://getbootstrap.com/" target="_blank">Bootstrap</a></li>
+    <li><a href="https://axios-http.com/docs/intro" target="_blank">Axios</a></li>
+    <li><a href="https://vuex.vuejs.org/" target="_blank">VueX</a></li>
 </ul>
 
